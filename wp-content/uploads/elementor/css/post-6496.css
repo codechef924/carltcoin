@@ -1,0 +1,76 @@
+.elementor-6496 .elementor-element.elementor-element-76d45027{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--background-transition:0.3s;--padding-block-start:48px;--padding-block-end:48px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-6496 .elementor-element.elementor-element-73b1d8{--e-image-carousel-slides-to-show:9;}.elementor-6496 .elementor-element.elementor-element-73b1d8 .swiper-wrapper{display:flex;align-items:center;}@media(min-width:768px){.elementor-6496 .elementor-element.elementor-element-76d45027{--content-width:100%;}}@media(max-width:1024px){.elementor-6496 .elementor-element.elementor-element-73b1d8{--e-image-carousel-slides-to-show:6;}}@media(max-width:767px){.elementor-6496 .elementor-element.elementor-element-73b1d8{--e-image-carousel-slides-to-show:4;}}/* Start custom CSS for image-carousel, class: .elementor-element-73b1d8 */.elementor-6496 .elementor-element.elementor-element-73b1d8 {
+    pointer-events: none;
+}
+
+.elementor-6496 .elementor-element.elementor-element-73b1d8::before {
+    content: '';
+    height: 100%;
+    width: 200px;
+    left: -50px;
+    top: 0;
+    display: block;
+    position: absolute;
+    z-index: 2;
+    background: linear-gradient(90deg, #EDEEEE 33.33%, rgba(255, 255, 255, 0.00) 100%);
+}
+
+.elementor-6496 .elementor-element.elementor-element-73b1d8::after {
+    content: '';
+    height: 100%;
+    width: 200px;
+    right: -50px;
+    top: 0;
+    display: block;
+    position: absolute;
+    z-index: 2;
+    background: linear-gradient(270deg, #EDEEEE 33.33%, rgba(255, 255, 255, 0.00) 100%);
+}
+
+.elementor-6496 .elementor-element.elementor-element-73b1d8 .elementor-image-carousel {
+    transition-timing-function: linear;
+}
+
+.elementor-6496 .elementor-element.elementor-element-73b1d8 img {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
+
+/* Mobile */
+@media only screen and (max-width: 720px) {
+    .elementor-6496 .elementor-element.elementor-element-73b1d8::before {
+        background: none;
+    }
+    
+    .elementor-6496 .elementor-element.elementor-element-73b1d8::after {
+        background: none;
+    }
+    
+    .elementor-6496 .elementor-element.elementor-element-73b1d8 img {
+        height: 60px;
+        width: 100px;
+        object-fit: contain;
+    }
+    
+}/* End custom CSS */
+/* Start custom CSS *//* CSS for ripple effect */
+.get-the-app-button a {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple-effect {
+  position: absolute;
+  border-radius: 50%;
+  transform: scale(0);
+  animation: rippleAnimate 0.6s linear;
+  background-color: rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+}
+
+@keyframes rippleAnimate {
+  to {
+    transform: scale(4);
+    opacity: 0;
+  }
+}/* End custom CSS */

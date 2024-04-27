@@ -1,0 +1,79 @@
+.elementor-kit-7{--e-global-color-primary:#1C39C2;--e-global-color-secondary:#FB543B;--e-global-color-text:#212121;--e-global-color-accent:#1C39C2;--e-global-color-c3e160b:#E8EBF9;--e-global-color-93f759b:#B9C2EC;--e-global-color-2daba8f:#97A4E3;--e-global-color-db09833:#677AD6;--e-global-color-b153523:#4961CE;--e-global-color-4d47577:#1C39C2;--e-global-color-1ddc626:#1934B1;--e-global-color-51576f7:#14288A;--e-global-color-d36889d:#0F1F6B;--e-global-color-417c235:#0C1851;--e-global-color-08cb514:#FFEEEB;--e-global-color-4951fb7:#FECAC2;--e-global-color-b2aeb3c:#FDB0A5;--e-global-color-afa1a98:#FC8C7C;--e-global-color-074dd12:#FC7662;--e-global-color-bf29604:#FB543B;--e-global-color-eb02568:#E44C36;--e-global-color-abb0017:#B23C2A;--e-global-color-0d4e7d6:#8A2E20;--e-global-color-db7323a:#692319;--e-global-color-de736a9:#E2B254;--e-global-color-da79c53:#6DFCB7;--e-global-color-c6167cb:#E1EE7C;--e-global-color-89bf74e:#FB543B;--e-global-color-cda1139:#97A4E3;--e-global-color-3fdd682:#FDFDFD;--e-global-color-4797bcb:#F8F8F8;--e-global-color-4534f40:#F5F5F5;--e-global-color-473f60d:#F0F1F1;--e-global-color-9d0fa17:#EDEEEE;--e-global-color-33cc153:#E9EAEA;--e-global-color-c86ef5e:#D4D5D5;--e-global-color-26ab667:#A5A6A6;--e-global-color-15b5ae4:#808181;--e-global-color-04236e4:#626262;--e-global-color-56b0d5a:#E9E9E9;--e-global-color-9b4fd1e:#BABABA;--e-global-color-8d64b63:#999999;--e-global-color-ce094df:#6A6A6A;--e-global-color-ce84d9b:#4D4D4D;--e-global-color-b0f0ed9:#212121;--e-global-color-547a658:#1E1E1E;--e-global-color-d71a007:#171717;--e-global-color-8b02802:#121212;--e-global-color-c435290:#0E0E0E;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-9e1bb96-font-size:72px;--e-global-typography-453ca87-font-size:60px;--e-global-typography-567b244-font-size:48px;--e-global-typography-b635304-font-size:36px;--e-global-typography-0cae8da-font-size:30px;--e-global-typography-0ba4198-font-size:24px;--e-global-typography-7414e42-font-size:20px;--e-global-typography-1598531-font-size:18px;--e-global-typography-2fc0e8d-font-size:16px;--e-global-typography-61b0280-font-size:14px;--e-global-typography-6cca1dc-font-size:12px;color:var( --e-global-color-text );font-family:"Manrope", Sans-serif;font-size:18px;font-weight:500;text-transform:none;line-height:1.5em;letter-spacing:0px;background-color:var( --e-global-color-56b0d5a );}.elementor-kit-7 p{margin-bottom:16px;}.elementor-kit-7 h1{font-family:"Sharp Grotesk", Sans-serif;font-size:56px;font-weight:600;text-transform:uppercase;line-height:1em;letter-spacing:0px;}.elementor-kit-7 h2{font-family:"Sharp Grotesk", Sans-serif;font-size:48px;font-weight:500;text-transform:none;line-height:1em;letter-spacing:0px;}.elementor-kit-7 h3{font-family:"Manrope", Sans-serif;font-size:24px;font-weight:700;text-transform:none;line-height:1.2em;letter-spacing:0.5px;}.elementor-kit-7 h4{font-family:"Manrope", Sans-serif;font-size:20px;font-weight:700;text-transform:none;line-height:1.2em;letter-spacing:0px;}.elementor-kit-7 h5{font-family:"Manrope", Sans-serif;font-size:18px;font-weight:700;line-height:1.2em;letter-spacing:0px;}.elementor-kit-7 h6{font-family:"Manrope", Sans-serif;font-size:16px;font-weight:700;text-transform:none;line-height:1.2em;letter-spacing:1px;}.elementor-kit-7 button,.elementor-kit-7 input[type="button"],.elementor-kit-7 input[type="submit"],.elementor-kit-7 .elementor-button{font-family:"Sharp Grotesk", Sans-serif;font-size:18px;font-weight:500;line-height:1em;letter-spacing:0.5px;color:var( --e-global-color-3fdd682 );background-color:var( --e-global-color-4d47577 );border-style:none;border-radius:100px 100px 100px 100px;padding:16px 40px 16px 40px;}.elementor-kit-7 button:hover,.elementor-kit-7 button:focus,.elementor-kit-7 input[type="button"]:hover,.elementor-kit-7 input[type="button"]:focus,.elementor-kit-7 input[type="submit"]:hover,.elementor-kit-7 input[type="submit"]:focus,.elementor-kit-7 .elementor-button:hover,.elementor-kit-7 .elementor-button:focus{background-color:var( --e-global-color-51576f7 );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-7 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-ExtraLight.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-Medium.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-SemiBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/04/Manrope-ExtraBold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sharp Grotesk';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/01/SharpGrotesk-Book20-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Sharp Grotesk';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/01/SharpGrotesk-Medium20-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Sharp Grotesk';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/01/SharpGrotesk-SemiBold20-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Sharp Grotesk';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://www.socios.com/wp-content/uploads/2024/01/SharpGrotesk-Bold20-1.woff') format('woff');
+}
+/* End Custom Fonts CSS */
